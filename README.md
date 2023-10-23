@@ -16,4 +16,8 @@ Clone or download the repository to your local machine.
 Open each lab file to find the Arduino code file (.ino) and any additional resources or instructions.
 Upload the code to your Arduino board and follow any additional instructions provided in the lab file to help set it up.
 
-Enjoy experimenting and learning with these hands-on lab activities! If you have any questions or need further assistance, feel free to reach out.
+## Copyright and Plagiarism Notice
+All content in this repository, including code, documentation, and other materials, is the property of [Rimsha Rizvi]. This work is submitted for [CS 362] at [University of Illinois at Chicago].
+Plagiarism is a serious offense and is strictly prohibited. You may not use, copy, or submit this work as your own. Any instances of plagiarism or unauthorized use will be reported to the relevant academic or professional authorities.
+If you would like to use this work for educational or other non-commercial purposes, please contact the author for permission.
+
