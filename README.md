@@ -1,4 +1,4 @@
-# Arduino Labs for CS 362 - Computer Design
+# Arduino Labs for CS 362 - Computer Design (UIC)
 This repository contains a collection of 8 lab activities completed for the CS 362 - Computer Design class. Each lab activity focuses on different aspects and functionalities of Arduino, providing hands-on experience with Arduino programming and hardware interaction.
 
 # Lab Activities Included:
