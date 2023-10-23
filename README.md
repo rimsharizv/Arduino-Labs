@@ -1,4 +1,4 @@
-# Arduino Labs for CS 362 - Computer Design (UIC)
+# Arduino Labs for Computer Design
 This repository contains a collection of 8 lab activities completed for the CS 362 - Computer Design class. Each lab activity focuses on different aspects and functionalities of Arduino, providing hands-on experience with Arduino programming and hardware interaction.
 
 # Lab Activities Included:
@@ -17,7 +17,7 @@ Open each lab file to find the Arduino code file (.ino) and any additional resou
 Upload the code to your Arduino board and follow any additional instructions provided in the lab file to help set it up.
 
 ## Copyright and Plagiarism Notice
-All content in this repository, including code, documentation, and other materials, is the property of [Rimsha Rizvi]. This work is submitted for [CS 362] at [University of Illinois at Chicago].
+All content in this repository, including code, documentation, and other materials, is the property of Rimsha Rizvi. This work is submitted for CS 362 at University of Illinois at Chicago.
 Plagiarism is a serious offense and is strictly prohibited. You may not use, copy, or submit this work as your own. Any instances of plagiarism or unauthorized use will be reported to the relevant academic or professional authorities.
 If you would like to use this work for educational or other non-commercial purposes, please contact the author for permission.
 
